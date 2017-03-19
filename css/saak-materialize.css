@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:100,400,500,600');
+
+.justify
+{
+  text-align: justify;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+main {
+  flex: 1 0 auto;
+}
+div .logo-saak{
+  margin-top: 16px;
+}
+html
+{
+  font-family: 'Raleway', sans-serif;
+}
+.center{
+  text-align: center;
+}
+.profile
+{
+  margin: 0px auto;
+}
+.fixed
+{
+  display: block;
+  position: fixed;
+}
